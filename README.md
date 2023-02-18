@@ -1,2 +1,2 @@
-# dio-desafio-github-primeirorepo
+INATIVO
 desafio de projeto Git/GitHub
